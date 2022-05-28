@@ -13,7 +13,7 @@ def find_anagrams(word1, word2):
     if sorted(word1) != sorted(word2):
         return False
 
-print(find_anagrams('first word', 'second word2'))
+print(find_anagrams('first word', 'second word'))
 
 
 
